@@ -32,14 +32,5 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a> 
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-
-## 📈 Stats
-
-<p align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathamjagga&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamjagga&theme=tokyonight" />
-</p>
 
 <br>
