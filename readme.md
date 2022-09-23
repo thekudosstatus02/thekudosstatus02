@@ -8,7 +8,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 [LinkedIn](https://www.linkedin.com/in/aman-sharma-7367a7221/)
 [Gmail](mailto:bobbysharm25875@gmail.com)
 
-[![Aman's github activity graph](https://activity-graph.herokuapp.com/graph?username=kudosstatus02&theme=xcode)](https://git.io/kudosstatus02)
+[![Aman's github activity graph](https://activity-graph.herokuapp.com/graph?username=thekudosstatus02&theme=xcode)](https://git.io/thekudosstatus02)
 
 ## ⚡ Technologies
 
