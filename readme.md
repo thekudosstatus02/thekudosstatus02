@@ -14,6 +14,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 ### Language :
 
+![Ruby](https://img.shields.io/badge/Ruby-💎-red)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -25,6 +26,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ### Libraries & Framework :
 
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=react)
+![Rails](https://img.shields.io/badge/Rails-[R]-orange)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 ### Tools:
@@ -32,5 +34,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a> 
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Render.com](https://img.shields.io/badge/Render.com-[RDC]-blue)
 
 <br>
