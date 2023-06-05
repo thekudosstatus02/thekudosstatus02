@@ -5,7 +5,7 @@ I am a tech enthusiast. <br>
 I listen to slow desi pop music 12 hours a day 🎵🎧. <br>
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: <br>
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/aman-sharma-7367a7221/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/aman-sharma-7367a7221/).<br>
 For any inquiries or questions, please feel free to reach out to me at [mailto:bobbysharm25875@gmail.com](mailto:bobbysharm25875@gmail.com).
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thekudosstatus02&theme=dark)](https://git.io/streak-stats)
