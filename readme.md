@@ -8,7 +8,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 Connect with me on [LinkedIn](https://www.linkedin.com/in/aman-sharma-7367a7221/).
 For any inquiries or questions, please feel free to reach out to me at [mailto:bobbysharm25875@gmail.com](mailto:bobbysharm25875@gmail.com).
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thekudosstatus02&theme=dark)](https://git.io/streak-stats)
 
 ## ⚡ Technologies
 
