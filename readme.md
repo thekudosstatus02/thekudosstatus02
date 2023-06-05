@@ -1,9 +1,12 @@
 ## Hi, I am Aman! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am Aman Sharma, currently pursuing my Bachelor Of Technology in Computer Science. <br>
-I am a tech enthusiast. <br>
-I listen to slow desi pop music 12 hours a day 🎵🎧. <br>
-I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: <br>
+
+I'm a passionate to be a software developer, with a strong interest in full stack development.
+I enjoy coding, analyzing data and creating visually appealing websites, and I'm constantly exploring new tools and technologies to expand my skillset. <br>
+
+I listen to slow desi pop music 12 hours a day 🎵🎧 and my heart yearns to experience the live concert of The Weeknd. <br>
+I am always open to collaborating on projects and innovative/disruptive ideas. 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/aman-sharma-7367a7221/).<br>
 For any inquiries or questions, please feel free to reach out to me at [mailto:bobbysharm25875@gmail.com](mailto:bobbysharm25875@gmail.com).
